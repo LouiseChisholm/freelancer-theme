@@ -4,7 +4,7 @@ email: louise.chisholm@gmail.com
 url: https://louise.chisholm.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Strategy - Program Management - Proposal development - Digital Research Infrastructure"
+skills: "Digital Research Infrastructure - Strategy - Proposal Development - Program Management"
 meta_author: Chisholm Louise
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Dr. Louise Chisholm
   location: Location
   social: Around the Web
   credits: Credits
