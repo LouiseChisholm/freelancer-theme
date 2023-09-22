@@ -13,6 +13,19 @@ Supporting new Career pathways
 Successful research and scientific collaborations rarely occur without individuals, or teams, taking on the work of structuring participants’ interactions, facilitating work, and supporting the impact of the project.  
 
 ** 26 May 2022: Making the Magic Happen with research data, software & infrastructure online event **
+- Co-organised the event with Dr Jeremy Cohen (RSLondon, Imperial), and Rosie Nieven (Science and Engineering South Consosrtium,UCL). 
 - Attendees heard what different research technology profesessional roles involve and how they are essential to effective research, learnt about the experiences and career pathways of colleagues and discover the focus of different teams/groups and network with potentially future colleagues!
 - Professor Anne Ferguson-Smith, University of Cambridge, chaired the event and our speakers included Professor Neil Ferguson, Imperial College London, Amy Strange, the Francis Crick Institute,Professor Nicola Shelton, University College London,Dr Michael Ball, UKRI-BBSRC,Professor Simon Hettrick, University of Southampton,Tom King, Queen Mary University of London.
-In the morning session we will hear from leading researchers about how their research benefits from the input of RTPs and also from practitioners themselves about how they contribute to enhancing research outputs. In the afternoon session we will hear from leaders about the opportunities in their team and there will be informal networking sessions.
+- Accompanying blog post
+
+RSEConference 2019: Panel session
+Working with colleagues across Science and Engineering South (SES), a consortium of six major universities based in the South East that have an excellent history of supporting the RSE community. The RSE campaign was led from the University of Southampton, UCL developed the model for the RSE Group which has spread across the country, and all the participating universities support RSE activities.The panellists are:
+- Alys Brett, Chair of the Society of Research Software Engineering.
+- Clare Gryce, Deputy Director, ITS Operations and Research, University of Sussex. 
+- Professor David Price, UCL Vice-Provost. 
+- Susan Littleson, Deputy Director HR, Imperial College London.
+
+With the addition of two heads of RSE groups.
+Over the last six months there has been a drive by the SES universities to recognise the RSE career path. The panel will discuss why SES universities are choosing to increase support for RSEs, the problems that have held back recognition for RSEs and the SES institutions’ approach to solving them. The goal of the panel is to support the growth of RSE careers across UK academia by sharing the experiences of the SES institutions in supporting RSEs.
+
+
