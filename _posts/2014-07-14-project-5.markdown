@@ -8,22 +8,24 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 ---
-I develop engaged research communities that provide a sense of belonging to our members, opportunities to develop new research colloaborations and to develop techincal skills. I would advocate for the community's needs to senior leadership. I develop and faciliate activities that enable the community members to particiapte e.g. newsletters, social media, working groups, committees, small grant schemes, champion scheme, festivals, symposia. 
+I develop engaged research communities that provide a sense of belonging to our members, opportunities to develop new research colloaborations and to develop techincal skills. I advocated for the community's needs to senior leadership. I develop and faciliate activities that enable members to participate in ways that suit them/needs. This includes receiving updates via the website, newsletters or social media, participating in committees or events; or leading initiatives supported through small grant schemes. 
 
 UCL eReseach Domain (2015 - 2022) 
-I supported and advocated for researchers who use d
 It brought together 1000+ people from across UCL, from all facilties, who were interested in using research data and compute in their research. 
-- 1st UCL Festival of Code:
-
-- eResearch Community-Led Initiatives: provided small funding for
-
-- Lunch n' Learn sessions
-
-- Facilitating data & Compute Forum
-
+- Developing regular webite, newsletter, social media content
 - Annual Symposia (~200 attendees) include: Founcatioanl and Applied AI, Computational Sciences,
+- 1st UCL Festival of Code:
+- eResearch Community-Led Initiatives: provided small funding for
+- Lunch n' Learn sessions
+- Facilitating data & Compute Forum
 - UCL Big Ideas call
 - Working group to develop UCL Research Data Strategy.
-- 
+  
+
+UCL Institute of Digital Health. 
+- Festival
+- Unconfernece
+- Developing regular webite, newsletter, social media content
+
 
 
