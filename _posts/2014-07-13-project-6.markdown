@@ -10,6 +10,8 @@ category: Web Development
 text-align: left
 
 ---
+<div align="left">
+ 
 I help researchers to identify potential funding sources for their research and to develop strong applications with the best possible chance of success. I coordinate and develop large-scale strategic bids. I write non-techincal propsoal sections and prepare research teams for interviews with grant review panels. Projects that I contributed to include:
 
 * STFC UK SKA Regional Centre (
@@ -22,3 +24,5 @@ I help researchers to identify potential funding sources for their research and 
 * STFC Centre for Doctoral Training inData Intensive Sciences, PI: Prof Nikos Konstantinidis, UCL Astronomy and Physics.-
 * EPSRC Art Through the ICT Lens: Preservation and Conservation of Old Master Paintings. PI: Prof Miguel Rodrigues, UCL Electronic and Electrical Engineering
 * The French Government's Laboratory of Excellence (LabEx) program: MEDALIS, an interdisciplinary centre, which develops research projects relating to new drugs and breakthrough therapeutic innovations, by integrating technology transfer at a very early stage. PI: Prof Sylviane Muller, University of Strasbourg.
+
+  </div>
