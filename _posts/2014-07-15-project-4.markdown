@@ -12,6 +12,12 @@ description: Use this area of the page to describe your project. Lorem ipsum dol
 Supporting new Career pathways 
 Successful research and scientific collaborations rarely occur without individuals, or teams, taking on the work of structuring participants’ interactions, facilitating work, and supporting the impact of the project.  
 
+PRISMS: New 
+
+
+Developed a family of job descriptions(grades 6-9) for UCL Advanced Research Computing that focus on XXXX. 
+
+
 ** 26 May 2022: Making the Magic Happen with research data, software & infrastructure online event **
 - Co-organised the event with Dr Jeremy Cohen (RSLondon, Imperial), and Rosie Nieven (Science and Engineering South Consosrtium,UCL). 
 - Attendees heard what different research technology profesessional roles involve and how they are essential to effective research, learnt about the experiences and career pathways of colleagues and discover the focus of different teams/groups and network with potentially future colleagues!
