@@ -8,10 +8,17 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 text-align: left
-description: <p>[this area](www.bbc.co.uk) of the page to describe your project.</p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+
 ---
+I help researchers to identify potential funding sources for their research and to develop strong applications with the best possible chance of success. I coordinate and develop large-scale strategic bids. I write non-techincal propsoal sections and prepare research teams for interviews with grant review panels. Projects that I contributed to include:
 
-
-* test
-* best
-  ## title  
+* STFC UK SKA Regional Centre (
+* Various proposals supporting the development abnd growth of the Materials and Molecular Modelling (MMM) Hub, a Tier 2 national supercomputing centre, which supports the UK-wide MMM community. PI: Prof Scott Woodley, UCL Chemistry. Thomas, Young, PAX.
+* Various proposals related to Exascale Computing ALgorithms & Infrastructures Benefiting UK Research (ExCALIBUR): UCL Adaptable Cluster, Software Environment for Actionable & VVUQ-evaluated Exascale Applications (SEAVEA); Learned Exascale Computational Imaging (LEXCI)
+* EPSRC Research Software Engineer Fellowship: Dr Tom Dowrick who is improving research translation in image guided surgery. 5 fellowships were funded nationally.
+* Health Data Research UK Using medicines data to understand the effects of COVID–19 on clinical care, Prof Reecha Sofat, UCL Institute of Health Informatics (now University of Liverpool).
+* UKRI Future Leader Fellowship: Dr Neil Oxtby who is developing individualised artificial intelligence for medicine.
+* UKRI Centre for Doctoral Training in Foundational Artificial Intelligence, PI: Prof David Barber, UCL Computer Science.
+* STFC Centre for Doctoral Training inData Intensive Sciences, PI: Prof Nikos Konstantinidis, UCL Astronomy and Physics.-
+* EPSRC Art Through the ICT Lens: Preservation and Conservation of Old Master Paintings. PI: Prof Miguel Rodrigues, UCL Electronic and Electrical Engineering
+* The French Government's Laboratory of Excellence (LabEx) program: MEDALIS, an interdisciplinary centre, which develops research projects relating to new drugs and breakthrough therapeutic innovations, by integrating technology transfer at a very early stage. PI: Prof Sylviane Muller, University of Strasbourg.
